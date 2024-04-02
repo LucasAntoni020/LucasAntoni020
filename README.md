@@ -1,3 +1,3 @@
 Trabalho Alura
 
-Criano meu site
+Criando meu site
